@@ -2,10 +2,6 @@ import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
 
-function nista() {
-  console.log("nistaaaa");
-}
-
 function App() {
   return (
     <div className="App">
