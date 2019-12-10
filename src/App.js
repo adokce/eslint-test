@@ -3,7 +3,7 @@ import logo from "./logo.svg";
 import "./App.css";
 
 function nista() {
-  console.log("nista");
+  console.log("nistaaa");
 }
 
 function App() {
