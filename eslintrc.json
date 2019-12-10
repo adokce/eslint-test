@@ -1,3 +1,6 @@
 {
-  "extends": ["react-app", "plugin:prettier/recommended", "sonarqube"]
+  "extends": ["react-app", "plugin:prettier/recommended", "sonarqube"],
+  "rules": {
+    "max-warnings": 0
+  }
 }
